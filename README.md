@@ -1,13 +1,12 @@
 # Hello, my name is Ezequiel Mathias Richter 
 
-<p align="center">
-  <img src="viciadoemcodar.gif" alt="animated gif"
-</p>
-
 ## Live in Venâncio Aires RS
 
 ### Software engineering course at UNINTER and back-end study focusing on Java
-
+<p align="center">
+  <img width= "250px"
+    src="pixels-neon.gif" alt="animated gif" />
+</p>
 #### Contact me
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ezequ1el_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/ezequiel-mathias-richter-24a605265/)
