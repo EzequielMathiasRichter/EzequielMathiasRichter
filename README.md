@@ -1,5 +1,8 @@
 # Hello, my name is Ezequiel Mathias Richter 
-![gif](https://github.com/EzequielMathiasRichter/EzequielMathiasRichter/assets/124745423/85651e92-5f3b-47bc-acbe-1ff4f767b7bb)
+
+<p align="center">
+  <img src="viciadoemcodar.gif" alt="animated gif"
+</p>
 
 ## Live in Venâncio Aires RS
 
