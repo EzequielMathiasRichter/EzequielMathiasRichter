@@ -1,9 +1,9 @@
+# Hello, my name is Ezequiel Mathias Richter 
+
 <p align="center">
   <img width="1000px"
     src="pixels-neon.gif" alt="animated gif" />
 </p>
-
-# Hello, my name is Ezequiel Mathias Richter 
 
 ## Live in Venâncio Aires RS
 
