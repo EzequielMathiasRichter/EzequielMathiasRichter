@@ -5,9 +5,9 @@
     src="pixels-neon.gif" alt="animated gif" />
 </p>
 
-## Live in Venâncio Aires RS
+## Live in <a href="https://maps.app.goo.gl/iiqvEwgrTBiqZrSv9">Venâncio Aires RS</a>
 
-### Software engineering course at UNINTER and back-end study focusing on Java
+### Software engineering course at <a href="https://www.uninter.com">UNINTER</a> and back-end study focusing on Java
 
 #### Contact me
 
