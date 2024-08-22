@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ezequ1el_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ezequiel-mathias-richter-24a605265/)
 #### Hard Skills
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)](https://www.java.com/en/download/help/whatis_java.html) [![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)](https://angular.io)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)](https://www.java.com/en/download/help/whatis_java.html) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 #### Soft Skills
 
